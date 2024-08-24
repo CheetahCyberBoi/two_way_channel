@@ -3,5 +3,6 @@ name = "two_way_channel"
 version = "0.1.0"
 edition = "2021"
 description = "A two-way communication channel, allowing both clients to send and receive data."
+license = "GPL-3.0-or-later"
 
 [dependencies]
